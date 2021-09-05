@@ -37,7 +37,6 @@ public class HBase_CRUD {
              *   注释： 获取管理员对象
              */
             Admin admin = connection.getAdmin();
-
             /********
              * TODO_MA 马中华 https://blog.csdn.net/zhongqi2513
              *   注释： 创建表

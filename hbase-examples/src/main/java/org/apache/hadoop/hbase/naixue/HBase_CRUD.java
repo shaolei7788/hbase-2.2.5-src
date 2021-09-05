@@ -44,7 +44,6 @@ public class HBase_CRUD {
              */
             admin.createTable(null);
 
-
             /********
              * TODO_MA 马中华 https://blog.csdn.net/zhongqi2513
              *   注释： get 一条数据

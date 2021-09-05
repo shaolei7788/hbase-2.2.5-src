@@ -19,6 +19,7 @@ import java.util.List;
  */
 public class HBase_CRUD {
 
+
     public static void main(String[] args) {
         // 请开始你的表演！
         try {
